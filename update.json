@@ -4,9 +4,30 @@
     "app": [
         {
             "label": "교보도서관",
-            "icon_url": "http://sssss",
-            "apk_url": ""
-            
+            "package": "com.kyobo.ebook.eink",
+            "icon_url": "http://git.senia.kr/SEM-repo/app/com.kyobo.ebook.eink/ic_launcher.png",
+            "apk_url": "http://nas.senia.kr/api/KyoboEBookEInk_1.1.0.apk",
+            "version": "1.1.0",
+            "date": "2017-07-08",
+            "date_count": 0,
+            "is_update_target": true,
+            "update_history": "http://git.senia.kr/SEM-repo/app/com.kyobo.ebook.eink/update_history.json",
+            "is_patched": false,
+            "minimum_android_sdk": 21
+
+        },
+        {
+            "label": "리디북스",
+            "package": "com.initialcoms.ridi",
+            "icon_url": "http://git.senia.kr/SEM-repo/app/com.initialcoms.ridi/ic_launcher.png",
+            "apk_url": "http://nas.senia.kr/api/KyoboEBookEInk_1.1.0.apk",
+            "version": "1.1.0",
+            "date": "2017-07-08",
+            "date_count": 0,
+            "is_update_target": true,
+            "update_history": "http://git.senia.kr/SEM-repo/app/com.kyobo.ebook.eink/update_history.json",
+            "is_patched": false,
+            "minimum_android_sdk": 21
         }
     ]
 }
