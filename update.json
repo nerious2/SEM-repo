@@ -1,0 +1,12 @@
+{
+    "update_date": "20221101-1005",
+    "app_list": 3,
+    "app": [
+        {
+            "label": "교보도서관",
+            "icon_url": "http://sssss",
+            "apk_url": ""
+            
+        }
+    ]
+}
