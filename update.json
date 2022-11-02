@@ -74,6 +74,48 @@
             "update_history": "http://git.senia.kr/app/kr.co.millie.eink/update_history.json",
             "is_patched": false,
             "minimum_android_sdk": 16
+        },
+        {
+            "label": "MY YES",
+            "package": "com.yes24.ebook.einkstore",
+            "icon_url": "http://git.senia.kr/app/com.yes24.ebook.einkstore/ic_launcher.png",
+            "apk_url": "http://git.senia.kr/app/com.yes24.ebook.einkstore/latest.apk",
+            "icon_version": 0,
+            "version": "1.5.41",
+            "date": "2022-08.10",
+            "date_count": 0,
+            "is_update_target": true,
+            "update_history": "http://git.senia.kr/app/com.yes24.ebook.einkstore/update_history.json",
+            "is_patched": false,
+            "minimum_android_sdk": 15
+        },
+        {
+            "label": "크레마 전자도서관 (YES24)",
+            "package": "com.incube.epub.pad",
+            "icon_url": "http://git.senia.kr/app/com.incube.epub.pad/ic_launcher.png",
+            "apk_url": "http://git.senia.kr/app/com.incube.epub.pad/latest.apk",
+            "icon_version": 0,
+            "version": "1.4.84",
+            "date": "2022-10-07",
+            "date_count": 0,
+            "is_update_target": true,
+            "update_history": "http://git.senia.kr/app/com.incube.epub.pad/update_history.json",
+            "is_patched": false,
+            "minimum_android_sdk": 15
+        },
+        {
+            "label": "카카오페이지",
+            "package": "com.kakao.page",
+            "icon_url": "http://git.senia.kr/app/com.kakao.page/ic_launcher.png",
+            "apk_url": "http://git.senia.kr/app/com.kakao.page/latest.apk",
+            "icon_version": 0,
+            "version": "7.0.15.3102",
+            "date": "2022-10-25",
+            "date_count": 0,
+            "is_update_target": true,
+            "update_history": "http://git.senia.kr/app/com.kakao.page/update_history.json",
+            "is_patched": false,
+            "minimum_android_sdk": 23
         }
     ]
 }
