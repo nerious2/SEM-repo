@@ -5,29 +5,29 @@
         {
             "label": "교보도서관",
             "package": "com.kyobo.ebook.eink",
-            "icon_url": "http://git.senia.kr/SEM-repo/app/com.kyobo.ebook.eink/ic_launcher.png",
+            "icon_url": "http://git.senia.kr/app/com.kyobo.ebook.eink/ic_launcher.png",
             "apk_url": "http://nas.senia.kr/api/KyoboEBookEInk_1.1.0.apk",
             "icon_version": 0,
-            "version": "1.1.0",
-            "date": "2017-07-08",
+            "version": "1.2.0",
+            "date": "2022-06-29",
             "date_count": 0,
             "is_update_target": true,
-            "update_history": "http://git.senia.kr/SEM-repo/app/com.kyobo.ebook.eink/update_history.json",
+            "update_history": "http://git.senia.kr/app/com.kyobo.ebook.eink/update_history.json",
             "is_patched": false,
-            "minimum_android_sdk": 21
+            "minimum_android_sdk": 19
 
         },
         {
-            "label": "리디북스",
+            "label": "리디",
             "package": "com.initialcoms.ridi",
-            "icon_url": "http://git.senia.kr/SEM-repo/app/com.initialcoms.ridi/ic_launcher.png",
+            "icon_url": "http://git.senia.kr/app/com.initialcoms.ridi/ic_launcher.png",
             "apk_url": "http://nas.senia.kr/api/KyoboEBookEInk_1.1.0.apk",
             "icon_version": 0,
-            "version": "1.1.0",
-            "date": "2017-07-08",
+            "version": "22.9.1",
+            "date": "2022-09-21",
             "date_count": 0,
             "is_update_target": true,
-            "update_history": "http://git.senia.kr/SEM-repo/app/com.kyobo.ebook.eink/update_history.json",
+            "update_history": "http://git.senia.kr/app/com.initialcoms.ridi/update_history.json",
             "is_patched": false,
             "minimum_android_sdk": 21
         }
