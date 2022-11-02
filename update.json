@@ -49,7 +49,7 @@
         },
         {
             "label": "북큐브 전자도서관",
-            "package": "com.initialcoms.ridi",
+            "package": "com.bookcube.digitallibrary",
             "icon_url": "http://git.senia.kr/app/com.bookcube.digitallibrary/ic_launcher.png",
             "apk_url": "http://git.senia.kr/app/com.bookcube.digitallibrary/latest.apk",
             "icon_version": 0,
