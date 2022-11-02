@@ -115,7 +115,7 @@
             "is_update_target": true,
             "update_history": "http://git.senia.kr/app/com.kakao.page/update_history.json",
             "is_patched": false,
-            "minimum_android_sdk": 23
+            "minimum_android_sdk": 99
         }
     ]
 }
