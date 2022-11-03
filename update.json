@@ -1,6 +1,8 @@
 {
-    "update_date": "20221101-1005",
-    "app_list": 3,
+    "update_version": "0.9.01",
+    "update_date": "2022-11-03",
+    "update_url": "",
+    "update_history": "",
     "app": [
         {
             "label": "교보eBook EInk",
