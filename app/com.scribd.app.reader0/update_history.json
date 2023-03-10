@@ -1,0 +1,24 @@
+{
+    "description": "Join the millions of readers who turn to Scribd's digital library to access audiobooks, books, magazine articles, podcasts, sheet music, and more. Our ad-free experience puts some of the best ebooks and audiobooks in your pocket starting with a free trial for new members.\nGET STARTED TODAY:\n1. Download the free Scribd app.\n2. Sign up for your free trial.\n3. Pick an ebook or audiobook from our catalog of over one million titles.\n4. Begin reading or listening right away. Keep reading all month long for no additional fee.\n5. Cancel anytime.\nHERE'S WHAT OTHERS ARE SAYING ABOUT SCRIBD:\n\"Put an entire library in your pocket with a subscription to Scribd.\" - Entrepreneur\n\"Scribd is a massive library that's home to millions of books, audiobooks, magazines … and even sheet music. (Sheet music!)\" - Mashable\n\"The fact that I could have access to all the greatest minds, mysteries, and stories for $8.99 a month was (and still is) crazy to me.\" - Business Insider\nALSO INCLUDED IN YOUR SUBSCRIPTION:\nEbooks and audiobooks across all genres including Personal Growth, True Crime, Business, Travel, Non-Fiction, Contemporary Fiction, YA, Science Fiction, and more.\nSheet music selections that cover every musical genre, instrument, and difficulty level. Play the classics or explore current hits from popular artists.\nArticles from hundreds of magazines including People, Time, The Atlantic, Entrepreneur, and more.\nAccess to the world's largest document library, which has more than 60 million documents including official government reports, case studies, study guides, academic dissertations, medical reports, and more.\nAll content read or listened to on Scribd can be synced across multiple devices. These special features are included in your subscription for free:\nFEATURES FOR THE AUDIOBOOK LISTENER\nCustomize your narration speed\nSet a sleep timer\nDownload audiobooks to listen offline\nFEATURES FOR THE EBOOK READER\nDownload ebooks to read offline\nMake notes and annotations, and add bookmarks\nCustomize your font size, type, and background color\nChoose horizontal or vertical page scrolling\nFEATURES FOR THE DOCUMENT / EPUB READER\nDownload documents to read offline\nSave or print your documents\nOur monthly subscription starts at $9.99 and automatically renews unless the subscription is canceled at least 24 hours prior to the next billing date.\nDownload the free Scribd app and start listening and reading today!",
+    "patch_description": "",
+    "update_log": [
+        {
+            "index": 0,
+            "version": "13.2",
+            "date": "2023-01-26",
+            "contents": "General bug fixes and stabilization updates.\n\nWe release new updates every two weeks, which means you’ll get access to the latest bug fixes and updated features as soon as possible."
+        },
+        {
+            "index": 1,
+            "version": "13.3",
+            "date": "2023-02-09",
+            "contents": "General bug fixes and stabilization updates.\n\nWe release new updates every two weeks, which means you’ll get access to the latest bug fixes and updated features as soon as possible."
+        },
+        {
+            "index": 2,
+            "version": "13.4",
+            "date": "2023-02-23",
+            "contents": "General bug fixes and stabilization updates.\n\nWe release new updates every two weeks, which means you’ll get access to the latest bug fixes and updated features as soon as possible."
+        }
+    ]
+}

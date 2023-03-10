@@ -1,0 +1,14 @@
+{
+    "version_code": 2022111700,
+    "version_list": [
+        {
+            "index": 0,
+            "version": "2.2.36",
+            "version_show": "2.2.36",
+            "apk_url": "https://repo2.senia.kr/sem/app/com.bookcube.digitallibrary/files/2.2.36.apk",
+            "apk_size": 69632114,
+            "minimum_android_sdk": 16,
+            "contents": "[북큐브 전자도서관 앱 V.2.2.36]\n1. 일부도서 (오디오북) 다운로드 관련 오류 수정"
+        }
+    ]
+}

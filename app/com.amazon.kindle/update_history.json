@@ -1,0 +1,36 @@
+{
+    "description": "주머니에 당신의 라이브러리입니다. 언제나 어디서나.\n\nREAD ANYTIME, ANYWHERE\nOn the bus, on your break, in your bed—never be without something to read. The Kindle app puts millions of books, magazines, newspapers, comics, and manga at your fingertips.\n\nFIND YOUR NEXT GREAT READ\n- Find your next great read with Kindle. Choose from millions of Kindle books (including books with Audible narration), magazines, audiobooks, and comics. Explore new releases, Amazon Charts best sellers, and titles across genres like romance, science fiction, children’s books, self-help, religion, nonfiction, and more—and try any book with a sample in the app before you buy on Amazon.com\n\n- Kindle Unlimited members can enjoy unlimited reading and listening, with the freedom to explore over 1 million titles, thousands of audiobooks, and current magazines.\n\n- Thousands of books, magazines, comics, and more included with Amazon Prime. \n\nGO BEYOND PAPER\nTurn your phone or tablet into a book with the Kindle app—so you can read anytime, anywhere. Explore these reading features in the Kindle app:\n\n- Read your way. Customize your text size, font type, margins, text alignment, and orientation (portrait or landscape)—and choose whether to turn pages from left to right or continuously scroll. Read comfortably day and night with adjustable brightness and background colors. Go to the Aa menu in your book to get started.\n\n- Look up words, people, and places while you read. Breeze through words you don’t know and characters you can’t remember with the built-in dictionary, X-Ray, Wikipedia lookup, instant translations, and search within your book. Simply tap and hold a word to view its definition, or follow links to Google and Wikipedia to get more information.\n\n- Track your reading progress. See what percent of the book you’ve read, real page numbers (for most top titles), and how much time you have left in the chapter or book based on your actual reading speed.\n\n- Bookmark places you want to revisit, and make highlights and take notes throughout your book. Open My Notebook to see all your notes in the same place. \n\n- Hop, skim, and jump with Page Flip. Flip between pages or get a bird’s-eye view of your book with Page Flip—don’t worry, we’ll save your place.\n\n- Zoom in on high-definition color images in Kindle books, magazines, comics, and manga.\n\n- Sync your books across devices. When you’re reading a book, the Kindle app will automatically sync where you left off—along with any bookmarks, highlights, or notes—so you can start reading on one device and pick up where you left off on another.\n\n- When you can’t read, listen. Switch seamlessly from reading your Kindle book to listening to the Audible book, all within the Kindle app.\n\n- Get notified when authors you love have new releases.",
+    "patch_description": "",
+    "update_log": [
+        {
+            "index": 0,
+            "version": "8.69.0.100(1.3.271415.0)",
+            "date": "2022-11-01",
+            "contents": "Several experience improvements and bug fixes."
+        },
+        {
+            "index": 1,
+            "version": "8.70.0.100(1.3.274671.0)",
+            "date": "2022-12-05",
+            "contents": "A refreshed UI and improved experience for sending documents and web articles to your Kindle library via the mobile share sheet. You can now send PDF, Word (DOCX), EPUB or other document formats easily to Kindle."
+        },
+        {
+            "index": 2,
+            "version": "8.70.1.0(1.3.276765.0)",
+            "date": "2022-12-29",
+            "contents": "Several experience improvements and bug fixes."
+        },
+        {
+            "index": 3,
+            "version": "8.71.0.100(1.3.278291.0)",
+            "date": "2023-01-20",
+            "contents": "Several experience improvements and bug fixes."
+        },
+        {
+            "index": 4,
+            "version": "8.72.0.100(1.3.279166.0)",
+            "date": "2023-02-03",
+            "contents": "Several experience improvements and bug fixes."
+        }
+    ]
+}
