@@ -19,12 +19,6 @@
             "version": "13.4",
             "date": "2023-02-23",
             "contents": "General bug fixes and stabilization updates.\n\nWe release new updates every two weeks, which means you’ll get access to the latest bug fixes and updated features as soon as possible."
-        },
-        {
-            "index": 3,
-            "version": "13.5",
-            "date": "2023-03-08",
-            "contents": "General bug fixes and stabilization updates.\n\nWe release new updates every two weeks, which means you’ll get access to the latest bug fixes and updated features as soon as possible."
         }
     ]
 }
