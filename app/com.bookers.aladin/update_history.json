@@ -31,6 +31,12 @@
             "version": "1.0.6",
             "date": "2023-02-07",
             "contents": "epub 무한로딩\n기타 강종이슈"
+        },
+        {
+            "index": 5,
+            "version": "1.0.7",
+            "date": "2023-03-06",
+            "contents": "epub 폴드 화면 변경시 강종이슈\nepub 다운로드 폰트 이슈\nepub 일부 컨텐츠 이미지 사이즈 조정\nepub 진입 시 강종이슈\nPDF 페이지 동기화 이슈\n알림 메세지 UI 이슈\n푸쉬 알림 이슈"
         }
     ]
 }
