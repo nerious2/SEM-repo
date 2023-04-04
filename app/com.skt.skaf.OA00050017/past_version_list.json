@@ -1,0 +1,14 @@
+{
+    "version_code": 2023040400,
+    "version_list": [
+        {
+            "index": 0,
+            "version": "5.6.2",
+            "version_show": "5.6.2",
+            "apk_url": "https://repo2.senia.kr/sem/app/com.skt.skaf.OA00050017/files/5.6.2.apk",
+            "apk_size": 81292108,
+            "minimum_android_sdk": 21,
+            "contents": "안드로이드 5 이상 지원 마지막 버전"
+        }
+    ]
+}
