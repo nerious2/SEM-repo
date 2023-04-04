@@ -238,7 +238,7 @@
                 "version": "1.0.4_patch_v1",
                 "date": "2022-12-22"
             },
-            "minimum_android_sdk": 19
+            "minimum_android_sdk": 15
         },
         {
             "label": "알라딘 eBook",
