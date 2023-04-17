@@ -1,7 +1,7 @@
 {
     "notice": {
         "id": 2023041700,
-        "context": "[2023-04-17]\n\n북큐브 추가 (북큐브 패치 앱은 추후 추가될 예정입니다)\n[2023-04-04]\n\nMY YES, 크레마 전자도서관, 예스24 eBook, 예스24 전자도서관 리뉴얼 (및 Eink) 아이콘 변경\n앱 상단의 메뉴에서 초기화를 진행해야 새로운 아이콘이 반영됩니다. (추후 업데이트로 수정 예정)\n\n[2023-02-07]\n\n리디 앱 구버전 롤백 (4.1부터 설치 가능)\n\n[기타]\n\n샘10+ 기기에서 새로고침 및 다운로드가 계속 실패하는 경우, 기기의 블루투스를 끄고 이용하시기 바랍니다.\n"
+        "context": "[2023-04-17]\n\n북큐브 추가 (북큐브 패치 앱은 추후 추가될 예정입니다)\n\n[2023-04-04]\n\nMY YES, 크레마 전자도서관, 예스24 eBook, 예스24 전자도서관 리뉴얼 (및 Eink) 아이콘 변경\n앱 상단의 메뉴에서 초기화를 진행해야 새로운 아이콘이 반영됩니다. (추후 업데이트로 수정 예정)\n\n[2023-02-07]\n\n리디 앱 구버전 롤백 (4.1부터 설치 가능)\n\n[기타]\n\n샘10+ 기기에서 새로고침 및 다운로드가 계속 실패하는 경우, 기기의 블루투스를 끄고 이용하시기 바랍니다.\n"
     },
     "update_version": "1.0.03",
     "update_date": "2023-03-08",
@@ -102,7 +102,7 @@
             "date_count": 0,
             "is_update_target": true,
             "update_history": "https://git.senia.kr/app/com.bookcube.bookplayer/update_history.json",
-            "is_patched": true,
+            "is_patched": false,
             "is_past_version": true,
             "past_version_code": 2023041700,
             "past_version_list": "https://git.senia.kr/app/com.bookcube.bookplayer/past_version_list.json",
