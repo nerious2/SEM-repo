@@ -13,6 +13,12 @@
             "version": "5.3.1",
             "date": "2023-02-08",
             "contents": "Bug fixes, performance optimizations, accessibility improvements, and preparation for our next round of features. Thanks for supporting your local libraries!"
+        },
+        {
+            "index": 2,
+            "version": "6.0.1",
+            "date": "2023-04.27",
+            "contents": "Bug fixes, performance optimizations, accessibility improvements, and preparation for our next round of features. Thanks for supporting your local libraries!"
         }
     ]
 }
