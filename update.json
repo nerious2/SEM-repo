@@ -14,20 +14,20 @@
             "label": "교보eBook EInk",
             "package": "com.kyobo.ebook.eink",
             "icon_url": "https://git.senia.kr/app/com.kyobo.ebook.eink/ic_launcher.png",
-            "apk_url": "https://repo2.senia.kr/sem/app/com.kyobo.ebook.eink/files/1.1.2.apk",
-            "apk_size": 79047854,
+            "apk_url": "https://repo2.senia.kr/sem/app/com.kyobo.ebook.eink/files/1.1.3.apk",
+            "apk_size": 79303362,
             "icon_version": 0,
-            "version": "1.1.2",
-            "date": "2022-10-09",
+            "version": "1.1.3",
+            "date": "2023-01-26",
             "date_count": 0,
             "is_update_target": true,
             "update_history": "https://git.senia.kr/app/com.kyobo.ebook.eink/update_history.json",
             "is_patched": true,
             "patch_info": {
-                "apk_url": "https://repo2.senia.kr/sem/app/com.kyobo.ebook.eink/files/patch/1.1.2_patch_v1.apk",
-                "apk_size": 79433460,
-                "version": "1.1.2_patch_v1",
-                "date": "2022-01-04"
+                "apk_url": "https://repo2.senia.kr/sem/app/com.kyobo.ebook.eink/files/patch/1.1.3_patch_v1.apk",
+                "apk_size": 79457208,
+                "version": "1.1.3_patch_v1",
+                "date": "2023-05-03"
             },
             "minimum_android_sdk": 21
 
@@ -46,10 +46,10 @@
             "update_history": "https://git.senia.kr/app/com.kyobo.ebook.common.b2c/update_history.json",
             "is_patched": true,
             "patch_info": {
-                "apk_url": "https://repo2.senia.kr/sem/app/com.kyobo.ebook.common.b2c/files/patch/3.5.08_patch_v1.apk",
-                "apk_size": 79691903,
-                "version": "3.5.08_patch_v1",
-                "date": "2022-02-02"
+                "apk_url": "https://repo2.senia.kr/sem/app/com.kyobo.ebook.common.b2c/files/patch/3.5.10_patch_v1.apk",
+                "apk_size": 79762948,
+                "version": "3.5.10_patch_v1",
+                "date": "2023-05-03"
             },
             "minimum_android_sdk": 21
 
@@ -322,11 +322,11 @@
             "label": "카카오페이지",
             "package": "com.kakao.page",
             "icon_url": "https://git.senia.kr/app/com.kakao.page/ic_launcher.png",
-            "apk_url": "https://repo2.senia.kr/sem/app/com.kakao.page/files/7.6.1.3658.apk",
-            "apk_size": 37183140,
+            "apk_url": "https://repo2.senia.kr/sem/app/com.kakao.page/files/7.6.2.3660.apk",
+            "apk_size": 37183146,
             "icon_version": 0,
-            "version": "7.6.1.3658",
-            "date": "2023-04-27",
+            "version": "7.6.2.3660",
+            "date": "2023-05-02",
             "date_count": 0,
             "is_update_target": true,
             "update_history": "https://git.senia.kr/app/com.kakao.page/update_history.json",
