@@ -382,6 +382,9 @@
             "is_update_target": true,
             "update_history": "https://git.senia.kr/app/com.joara.mobile/update_history.json",
             "is_patched": false,
+            "is_past_version": true,
+            "past_version_code": 2023051100,
+            "past_version_list": "https://git.senia.kr/app/com.joara.mobile/past_version_list.json",
             "minimum_android_sdk": 19
         },
         {
