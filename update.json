@@ -434,7 +434,7 @@
             "update_history": "https://git.senia.kr/app/com.initialcoms.ridi/update_history.json",
             "is_patched": false,
             "is_past_version": true,
-            "past_version_code": 2023020700,
+            "past_version_code": 2023061900,
             "past_version_list": "https://git.senia.kr/app/com.initialcoms.ridi/past_version_list.json",
             "minimum_android_sdk": 24
         },
