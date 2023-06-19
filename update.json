@@ -3,12 +3,12 @@
         "id": 2023041700,
         "context": "[2023-04-17]\n\n북큐브 추가 (북큐브 패치 앱은 추후 추가될 예정입니다)\n\n[2023-04-04]\n\nMY YES, 크레마 전자도서관, 예스24 eBook, 예스24 전자도서관 리뉴얼 (및 Eink) 아이콘 변경\n앱 상단의 메뉴에서 초기화를 진행해야 새로운 아이콘이 반영됩니다. (추후 업데이트로 수정 예정)\n\n[2023-02-07]\n\n리디 앱 구버전 롤백 (4.1부터 설치 가능)\n\n[기타]\n\n샘10+ 기기에서 새로고침 및 다운로드가 계속 실패하는 경우, 기기의 블루투스를 끄고 이용하시기 바랍니다.\n"
     },
-    "update_version": "1.0.04",
+    "update_version": "1.0.05",
     "update_date": "2023-06-19",
-    "update_url": "https://repo2.senia.kr/sem/release/1.0.04.apk",
-    "update_history": "앱 업데이트에 실패하는 경우, https://github.com/nerious2/SEM/releases 에서 직접 apk 파일을 다운로드 받아주세요.\n\n[v1.0.04 - 2023년 6월 19일]\n\n1. 서버 변경 (https 지원)\n서버가 변경되었으며 반드시 새 버전으로 사용하셔야 정상적인 이용이 가능합니다.\n\n2. APK 파일 다운로드 기능 추가\n\n3. 크레마 모티프 사용성 개선\n\n4. 앱 아이콘 색상 변경\n",
+    "update_url": "https://repo2.senia.kr/sem/release/1.0.05.apk",
+    "update_history": "앱 업데이트에 실패하는 경우, https://github.com/nerious2/SEM/releases 에서 직접 apk 파일을 다운로드 받아주세요.\n\n[v1.0.05 - 2023년 6월 19일 긴급 패치]\n\n1. 앱 설치 방식 롤백\n\n2. 서버 변경 (https 지원)\n서버가 변경되었으며 반드시 새 버전으로 사용하셔야 정상적인 이용이 가능합니다.\n\n3. APK 파일 다운로드 기능 추가\n\n4. 크레마 모티프 사용성 개선\n\n5. 앱 아이콘 색상 변경\n",
     "update_type": "normal",
-    "update_minimum_version_code": 1048589,
+    "update_minimum_version_code": 1048590,
     "app": [
         {
             "label": "교보eBook EInk",
