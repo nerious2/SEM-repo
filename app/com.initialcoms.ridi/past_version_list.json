@@ -5,7 +5,7 @@
             "index": 0,
             "version": "20.1.2",
             "version_show": "20.1.2 E-Ink",
-            "apk_url": "https://repo2.senia.kr/sem/app/com.initialcoms.ridi/files/RIDI-20.1.2-E-Ink.apk",
+            "apk_url": "http://repo.senia.kr/sem/app/com.initialcoms.ridi/files/RIDI-20.1.2-E-Ink.apk",
             "apk_size": 64581620,
             "minimum_android_sdk": 16,
             "contents": "E-Ink 버전"
@@ -14,7 +14,7 @@
             "index": 1,
             "version": "20.1.2",
             "version_show": "20.1.2 E-Ink noTTS",
-            "apk_url": "https://repo2.senia.kr/sem/app/com.initialcoms.ridi/files/RIDI-20.1.2-E-Ink-noTTS.apk",
+            "apk_url": "http://repo.senia.kr/sem/app/com.initialcoms.ridi/files/RIDI-20.1.2-E-Ink-noTTS.apk",
             "apk_size": 54484550,
             "minimum_android_sdk": 16,
             "contents": "E-Ink 버전 (TTS 제외)"
@@ -23,7 +23,7 @@
             "index": 2,
             "version": "20.1.2",
             "version_show": "20.1.2 PlayStore",
-            "apk_url": "https://repo2.senia.kr/sem/app/com.initialcoms.ridi/files/RIDI-20.1.2-PlayStore.apk",
+            "apk_url": "http://repo.senia.kr/sem/app/com.initialcoms.ridi/files/RIDI-20.1.2-PlayStore.apk",
             "apk_size": 146076030,
             "minimum_android_sdk": 16,
             "contents": "일반 버전"
@@ -32,7 +32,7 @@
             "index": 3,
             "version": "20.1.2",
             "version_show": "20.1.2 noTTS",
-            "apk_url": "https://repo2.senia.kr/sem/app/com.initialcoms.ridi/files/RIDI-20.1.2-noTTS.apk",
+            "apk_url": "http://repo.senia.kr/sem/app/com.initialcoms.ridi/files/RIDI-20.1.2-noTTS.apk",
             "apk_size": 134902303,
             "minimum_android_sdk": 16,
             "contents": "일반 버전 (TTS 제외)"
@@ -41,7 +41,7 @@
             "index": 4,
             "version": "20.5.1",
             "version_show": "20.5.1 E-Ink",
-            "apk_url": "https://repo2.senia.kr/sem/app/com.initialcoms.ridi/files/RIDI-20.5.1-E-Ink.apk",
+            "apk_url": "http://repo.senia.kr/sem/app/com.initialcoms.ridi/files/RIDI-20.5.1-E-Ink.apk",
             "apk_size": 70768733,
             "minimum_android_sdk": 19,
             "contents": "E-Ink 버전"
@@ -50,7 +50,7 @@
             "index": 5,
             "version": "20.5.1",
             "version_show": "20.5.1 E-Ink noTTS",
-            "apk_url": "https://repo2.senia.kr/sem/app/com.initialcoms.ridi/files/RIDI-20.5.1-E-Ink-noTTS.apk",
+            "apk_url": "http://repo.senia.kr/sem/app/com.initialcoms.ridi/files/RIDI-20.5.1-E-Ink-noTTS.apk",
             "apk_size": 60671455,
             "minimum_android_sdk": 19,
             "contents": "E-Ink 버전 (TTS 제외)"
@@ -59,7 +59,7 @@
             "index": 6,
             "version": "22.9.1",
             "version_show": "22.9.1 ARMv7aOnly",
-            "apk_url": "https://repo2.senia.kr/sem/app/com.initialcoms.ridi/files/RIDI-22.9.1-ARMv7aOnly.apk",
+            "apk_url": "http://repo.senia.kr/sem/app/com.initialcoms.ridi/files/RIDI-22.9.1-ARMv7aOnly.apk",
             "apk_size": 104625174,
             "minimum_android_sdk": 21,
             "contents": "저용량 버전"

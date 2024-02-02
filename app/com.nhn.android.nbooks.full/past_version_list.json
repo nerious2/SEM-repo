@@ -1,11 +1,11 @@
 {
-    "version_code": 2023061900,
+    "version_code": 2024020200,
     "version_list": [
         {
             "index": 0,
             "version": "3.22.2",
             "version_show": "3.22.2",
-            "apk_url": "https://repo2.senia.kr/sem/app/com.nhn.android.nbooks.full/files/3.22.2.apk",
+            "apk_url": "http://repo.senia.kr/sem/app/com.nhn.android.nbooks.full/files/3.22.2.apk",
             "apk_size": 43318495,
             "minimum_android_sdk": 19,
             "contents": "안드로이드 4.4 이상 지원 (오닉스 포크2 등의 일부 기기에서 최신 버전이 비정상 작동 시 사용 가능)"
@@ -14,10 +14,19 @@
             "index": 1,
             "version": "3.23.1",
             "version_show": "3.23.1",
-            "apk_url": "https://repo2.senia.kr/sem/app/com.nhn.android.nbooks.full/files/3.23.1.apk",
+            "apk_url": "http://repo.senia.kr/sem/app/com.nhn.android.nbooks.full/files/3.23.1.apk",
             "apk_size": 44171811,
             "minimum_android_sdk": 19,
             "contents": "안드로이드 4.4 이상 지원 (오닉스 포크2 등의 일부 기기에서 최신 버전이 비정상 작동 시 사용 가능)"
+        },
+        {
+            "index": 2,
+            "version": "3.35.3",
+            "version_show": "3.35.3",
+            "apk_url": "http://repo.senia.kr/sem/app/com.nhn.android.nbooks.full/files/3.35.3.apk",
+            "apk_size": 57906381,
+            "minimum_android_sdk": 21,
+            "contents": "안드로이드 5 이상 지원"
         }
     ]
 }

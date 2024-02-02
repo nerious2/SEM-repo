@@ -5,7 +5,7 @@
             "index": 0,
             "version": "2.5.5",
             "version_show": "2.5.5",
-            "apk_url": "https://repo2.senia.kr/sem/app/com.joara.mobile/files/2.5.5.apk",
+            "apk_url": "http://repo.senia.kr/sem/app/com.joara.mobile/files/2.5.5.apk",
             "apk_size": 8169690,
             "minimum_android_sdk": 16,
             "contents": "안드로이드 4.1 지원 버전"

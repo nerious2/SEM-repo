@@ -5,7 +5,7 @@
             "index": 0,
             "version": "3.16.12",
             "version_show": "3.16.12",
-            "apk_url": "https://repo2.senia.kr/sem/app/kr.munpia.forandroid/files/3.16.12.apk",
+            "apk_url": "http://repo.senia.kr/sem/app/kr.munpia.forandroid/files/3.16.12.apk",
             "apk_size": 21553312,
             "minimum_android_sdk": 16,
             "contents": "안드로이드 4.1 이상 지원 마지막 버전\n\n[v.3.16.12]\n서비스 안정화 작업을 포함한 기타 소소한 오류가 수정되었습니다.\n안드로이드 4 를 지원하는 마지막 버전입니다."
